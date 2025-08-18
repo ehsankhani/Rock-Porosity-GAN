@@ -43,7 +43,7 @@ The project uses high-resolution CT scan data of porous rock samples with the fo
 ### 🔗 Data Availability
 
 **Dataset and trained model checkpoints are available on Kaggle:**
-- **Kaggle Dataset**: [Porous Media CT Scan Dataset](https://www.kaggle.com/datasets/[username]/porous-media-ct-scans)
+- **Kaggle Dataset**: [Porous Media CT Scan Dataset](https://www.kaggle.com/datasets/ehsankhani/micro-ct)
 - **Pre-trained Models**: Download trained generator weights and checkpoints from the Kaggle platform
 - **Access**: Public dataset accessible for research and educational purposes
 
@@ -219,19 +219,6 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📚 Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@software{guided_gan_porous_media_2024,
-  title={Guided GAN for Porous Media Reconstruction},
-  author={[Your Name]},
-  year={2024},
-  url={https://github.com/yourusername/guided-gan-porous-media},
-  note={Deep learning approach for generating realistic porous media structures from CT scan data}
-}
-```
 
 ## 🙏 Acknowledgments
 
@@ -244,9 +231,8 @@ If you use this work in your research, please cite:
 
 For questions, suggestions, or collaborations:
 
-- **Email**: your.email@domain.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **ResearchGate**: [Your ResearchGate Profile](https://researchgate.net/profile/yourprofile)
+- **Email**: ehsanhamzekhani80@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/ehsan-khanii)
 
 ---
 

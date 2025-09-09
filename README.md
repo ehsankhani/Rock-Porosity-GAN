@@ -232,7 +232,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, suggestions, or collaborations:
 
 - **Email**: ehsanhamzekhani80@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/ehsan-khanii)
+- **LinkedIn**: [Ehsan khani](www.linkedin.com/in/ehsan-khanii)
 
 ---
 
